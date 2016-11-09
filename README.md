@@ -1,2 +1,4 @@
 # bigdataforsandiego17.github.io
-Competition Website Hosting
+website for Big Data for San Diego 2017 Hackathon
+
+[http://bigdataforsandiego17.github.io](http://bigdataforsandiego17.github.io)
